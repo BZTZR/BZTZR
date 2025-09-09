@@ -2,7 +2,7 @@
 
 My name is Timur and this is my github page 😉
 
-![Status](https://img.shields.io/badge/Styding...-8A2BE2)
+![Status](https://img.shields.io/badge/Studying%20more...-8A2BE2)
 
 ## 📖 About me
 
